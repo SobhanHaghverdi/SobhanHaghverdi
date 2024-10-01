@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br><br>I'm Sobhan Haghverdi , a passionate Back-End developer at Javoone Group based in Tehran. I love turning <br> ideas into reality through code. When I'm not coding, you can find me playing Video Games<br> and working on my personal projects.<br><br>I enjoy working on projects that helps and makes life easier for people .<br> Let's connect and collaborate!<br><br><br>🏢 I’m currently working In Javoone Group<br>🌱 I’m currently learning Node.js (Advanced Level)<br>⚡ Fun facts :<br>      - I love Refactoring 😊<br>      - I love playing video games 🎮<br><br>Feel free to explore and provide feedback!
+Hi there! 👋<br><br>I'm Sobhan Haghverdi , a passionate Back-End developer at Javoone Group based in Tehran.<br>I love turning ideas into reality through code. When I'm not coding, you can find me playing Video Games<br>and working on my personal projects.<br><br>I enjoy working on projects that helps and makes life easier for people .Let's connect and collaborate!<br><br><br>🏢 I’m currently working In Javoone Group<br>🌱 I’m currently learning Node.js (Advanced Level)<br>⚡ Fun facts :<br>      - I love Refactoring 😊<br>      - I love playing video games 🎮<br><br>Feel free to explore and provide feedback!
 
 
 ## 🌐 Socials:
