@@ -8,6 +8,19 @@ I'm Sobhan Haghverdi, a passionate and happy Back-End developer at Javoone Group
 ## 🌐 Contact me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sobhan_haghverdii)
 
+
+<div align="left">
+  <a href="https://instagram.com/sobhan_haghverdii" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://t.me/Sobhan_Haghverdi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
+  </a>
+  <a href="mailto:sobhanhv.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+</div>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=SobhanHaghverdi&icon=0&color=3)](https://visitcount.itsvg.in)
 
