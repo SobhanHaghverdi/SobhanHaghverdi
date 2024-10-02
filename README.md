@@ -3,7 +3,7 @@
 ###
 
 <p align="left">I'm Sobhan Haghverdi, a passionate and happy Back-End developer at Javoone Group based in Tehran.<br>I love programming for turning ideas into reality through code. When I'm not coding, you can find me studying on new features and working on my personal projects.<br><br>I enjoy working on projects that helps and makes life easier for people. Let's connect and collaborate!<br>
-<br>Feel free to explore and provide feedback!</p>
+Feel free to explore and provide feedback!</p>
 
 ###
 
