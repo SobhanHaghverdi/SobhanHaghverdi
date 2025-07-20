@@ -28,18 +28,18 @@ Feel free to reach out or explore my repos!
 
 
 
-<h2 align="left">Expertise</h2>
+<h2 align="left">🔧 Expertise</h2>
 
 ###
 
-<h3 align="left">Languages</h3>
+<h3 align="left">🖥️ Languages</h3>
 
 ###
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ###
 
-<h3 align="left">Back-End Frameworks</h3>
+<h3 align="left">⚙️ Back-End Frameworks</h3>
 
 ###
 
@@ -47,7 +47,7 @@ Feel free to reach out or explore my repos!
 
 ###
 
-<h3 align="left">Databases (ODM and ORM)</h3>
+<h3 align="left">🗄️ Databases (ODM and ORM)</h3>
 
 ###
 
@@ -55,7 +55,7 @@ Feel free to reach out or explore my repos!
 
 ###
 
-<h3 align="left">Tools & Libraries</h3>
+<h3 align="left">🧰 Tools & Libraries</h3>
 
 ###
 
