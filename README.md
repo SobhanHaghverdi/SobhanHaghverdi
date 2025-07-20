@@ -1,19 +1,33 @@
-<h1 align="left">Hi There👋</h1>
+# 👋 Hi there, I'm Sobhan Haghverdi
 
-###
+I'm a passionate **Back-End Developer** based in Tehran, currently working at **Javoone Group**.  
+I specialize in **Node.js**, **TypeScript**, **Fastify**, **Express**, and both **SQL**/**NoSQL** databases (PostgreSQL, MySQL, MongoDB).
 
-<p align="left">I'm Sobhan Haghverdi, a passionate and happy Back-End developer at Javoone Group based in Tehran.<br>I love programming for turning ideas into reality through code. When I'm not coding, you can find me studying on new features and working on my personal projects.<br><br>I enjoy working on projects that helps and makes life easier for people. Let's connect and collaborate!<br>
-Feel free to explore and provide feedback!</p>
+I love turning ideas into reliable, scalable backend systems – from building RESTful APIs to integrating complex business logic with clean architecture and well-tested code.
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 🚀 About Me
 
-###
+- 🏢 Currently Backend Developer at **Javoone Group**
+- 👨‍💻 Most experienced with: `Node.js`, `TypeScript`, `Fastify`, `MongoDB`, `PostgreSQL`
+- 🌱 Currently exploring advanced **TypeScript patterns**
+- ⚡ Fun fact: I love **refactoring messy code into clean architecture**
+- 🌍 Open to remote/freelance collaboration with international teams
 
-<p align="left">🏢 I’m currently working In Javoone Group<br>🌱 I’m currently learning TypeScript<br>⚡ Fun Fact: I love Refactoring 😊</p>
+---
 
-###
+## 🤝 Let's Connect
+
+I enjoy working on systems that make life easier, and I'm always open to feedback, collaboration, or interesting backend challenges.
+
+Feel free to reach out or explore my repos!
+
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR-USERNAME)
+- 📧 Email: sobhan@example.com  
+- 🌐 Portfolio: [sobhan.dev](https://your-portfolio.com) *(if you have one)*
+
+
 
 <h2 align="left">Expertise</h2>
 
