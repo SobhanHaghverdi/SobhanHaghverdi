@@ -26,7 +26,7 @@ Feel free to reach out or explore my repos!
 - 💼 [LinkedIn]([https://linkedin.com/in/Sobhan Haghverdi](https://www.linkedin.com/in/sobhan-haghverdi-311927330/))
 - 📧 Email: sobhanhv.dev@gmail.com  
 
-
+---
 
 <h2 align="left">🔧 Expertise</h2>
 
