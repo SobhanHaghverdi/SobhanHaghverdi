@@ -63,6 +63,8 @@ Feel free to reach out or explore my repos!
 
 ###
 
+---
+
 <h2 align="left">Contact me</h2>
 
 ###
