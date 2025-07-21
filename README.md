@@ -23,7 +23,7 @@ I enjoy working on systems that make life easier, and I'm always open to feedbac
 
 Feel free to reach out or explore my repos!
 
-- 💼 LinkedIn:(linkedin.com/in/sobhan-haghverdi-311927330/)
+- 💼 LinkedIn:(www.linkedin.com/in/sobhan-haghverdi-311927330/)
 - 📧 Email: sobhanhv.dev@gmail.com  
 
 ---
