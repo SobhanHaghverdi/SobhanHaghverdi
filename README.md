@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sobhan Haghverdi
 
-I'm a passionate **Back-End Developer** based in Tehran, currently working at **Javoone Group**.  
+I'm a passionate **Back-End Developer** based in Tehran.
 I specialize in **Node.js**, **TypeScript**, **Fastify**, **Express**, and both **SQL**/**NoSQL** databases (PostgreSQL, MySQL, MongoDB).
 
 I love turning ideas into reliable, scalable backend systems – from building RESTful APIs to integrating complex business logic with clean architecture and well-tested code.
@@ -9,7 +9,6 @@ I love turning ideas into reliable, scalable backend systems – from building R
 
 ## 🚀 About Me
 
-- 🏢 Currently Backend Developer at **Javoone Group**
 - 👨‍💻 Most experienced with: `Node.js`, `TypeScript`, `Fastify`, `MongoDB`, `PostgreSQL`
 - 🌱 Currently exploring **NestJS**
 - ⚡ Fun fact: I love **refactoring messy code into clean architecture**
