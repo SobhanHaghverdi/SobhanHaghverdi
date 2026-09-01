@@ -72,7 +72,7 @@ Feel free to reach out or explore my repos!
   <a href="https://instagram.com/sobhan_haghverdii" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
-  <a href="https://t.me/Sobhan_Haghverdi" target="_blank">
+  <a href="https://t.me/sobhan_hv" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
   </a>
   <a href="mailto:sobhanhv.dev@gmail.com" target="_blank">
